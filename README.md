@@ -1,4 +1,4 @@
-Hi there, Im Gondezz! 
+# Hi there, Im Gondezz! 
 
 <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="animated GIF" width="400">
 
